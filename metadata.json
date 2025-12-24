@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Multiverse",
+  "description": "A cutting-edge AI sandbox for testing text generation, image creation, and real-time voice conversations using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
